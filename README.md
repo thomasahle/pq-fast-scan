@@ -106,7 +106,7 @@ If you use g++ 4.9:
 
 To use the default g++ version of your distribution:
 
-    $ cmake ../pq-fast-scan
+    $ cmake ../../pq-fast-scan
     $ make
 
 ## Usage ##
